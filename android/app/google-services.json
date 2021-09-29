@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334224710714",
+    "project_id": "ecomshopping-f4cbd",
+    "storage_bucket": "ecomshopping-f4cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334224710714:android:a34647c095895699f6e903",
+        "android_client_info": {
+          "package_name": "com.example.ecom_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334224710714-7fuvql57g57ckivdtetr0sl8soo9rfft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecom_shopping",
+            "certificate_hash": "038fe604ea6df81760cf84a048144b62130113ce"
+          }
+        },
+        {
+          "client_id": "334224710714-v6oj4rt4aquge1qeghdepvfcctl2lt9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvKu0Zt7TLK_QXA_1iSZiasNHqGpE3AOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334224710714-v6oj4rt4aquge1qeghdepvfcctl2lt9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
